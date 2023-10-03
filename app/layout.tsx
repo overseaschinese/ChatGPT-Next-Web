@@ -6,7 +6,7 @@ import { getClientConfig } from "./config/client";
 import { type Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "OCU ChatAI ",
+  title: "僑光全校師生ChatAI平台 ",
   description: "Your personal ChatAI Chat Bot.",
   viewport: {
     width: "device-width",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "OCU ChatAI",
+    title: "僑光全校師生ChatAI平台",
     statusBarStyle: "default",
   },
 };
